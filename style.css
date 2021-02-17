@@ -1,0 +1,18 @@
+nav {
+    background: #C0C0C0 ;
+}
+
+a {
+    transition: background-color .5s;
+  }
+  
+  li a:hover {
+    background-color:#E4E4E4;
+    border-radius: 1em;
+    font-weight: bold;
+  }
+
+.imgSend{
+    width: 25px; height: 25px;
+}
+
